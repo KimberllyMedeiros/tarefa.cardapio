@@ -6,3 +6,6 @@ width: 100%;
 #body{
     margin: 0;
 }
+#foto{
+    border-radius: 10%;
+}
