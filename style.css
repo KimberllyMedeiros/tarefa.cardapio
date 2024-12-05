@@ -2,10 +2,19 @@
     background-color: chocolate;
 padding: auto;
 width: 100%;
+text-align: right;
 }
 #body{
     margin: 0;
 }
 #foto{
     border-radius: 10%;
+}
+#titulo{
+    background-color: hsl(34, 78%, 60%);
+    font-weight: bold;
+    color: #361b08;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
 }
