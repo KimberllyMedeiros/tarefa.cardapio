@@ -1,5 +1,8 @@
 #gif{
     background-color: chocolate;
 padding: auto;
-margin: 0%;
+width: 100%;
+}
+#body{
+    margin: 0;
 }
